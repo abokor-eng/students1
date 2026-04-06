@@ -7,6 +7,7 @@ Abokor Mohamed
 - HTML
 - CSS
 - GitHub
+- Java
 
 ## Goals
 - Become a developer
